@@ -40,10 +40,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libccci_util \
     libcam.halsensor \
-    libgralloc_extra \
-    libgui_ext \
-    libion \
-    libui_ext \
+    libui_shim \
     libwvmsym
 
 # GPS
